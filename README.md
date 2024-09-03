@@ -6,7 +6,7 @@ I'm Matt Delaune, a SaaS Account Executive turned Data Analyst/Business Intellig
 
 With a background in sales and a deep understanding of business needs, I now focus on leveraging data to uncover actionable insights. My goal is to help businesses optimize strategies, improve customer experiences, and drive success through data-driven decision-making.
 
-📄 [Download My Resume](https://example.com/resume) | 💼 [Connect on LinkedIn](https://linkedin.com/in/mattdelaune)
+📄 [Download My Resume](https://github.com/mattdelaune/mattdelaune/blob/main/mattdelaune_resume.docx) | 💼 [Connect on LinkedIn](https://linkedin.com/in/mattdelaune)
 
 ## 📊 Projects
 
@@ -14,24 +14,23 @@ With a background in sales and a deep understanding of business needs, I now foc
 - **Summary:** Analyzed 270,000+ sales records to identify key product pairs, leading to a projected 12% increase in Average Order Value (AOV) and a 15% boost in Customer Lifetime Value (CLV).
 - **Tools:** PostgreSQL, Python, Power BI
 - **Results:** Developed a Power BI dashboard to visualize insights, enabling strategic cross-selling and personalized marketing efforts.
-- 🔗 [View Code](https://github.com/mattdelaune/market-basket-analysis) | 📊 [View Dashboard](https://example.com/dashboard)
+- 🔗 [View Code](https://github.com/mattdelaune/Ecommerce_Market_Basket_Analysis) | 📊 [View Dashboard](https://github.com/mattdelaune/Ecommerce_Market_Basket_Analysis/blob/master/mba_dashboard.pbix)
 
 ### 2. SaaS Customer Segmentation and Cohort Analysis
 - **Summary:** Analyzed 5,000+ SaaS transactions to identify high-impact customer segments. Implemented strategies leading to estimated increases in Gross Dollar Retention by 10% and CLV Growth by 20%.
 - **Tools:** Python (Pandas), Jupyter Notebooks
 - **Results:** Implemented dynamic retention strategies and personalized engagement initiatives.
-- 🔗 [View Code](https://github.com/mattdelaune/saas-cohort-analysis) | 📑 [View Report](https://example.com/report)
+- 🔗 [View Code](https://github.com/mattdelaune/SaaS_Cohort_Analysis) | 📑 [View Report](https://github.com/mattdelaune/SaaS_Cohort_Analysis/blob/main/MattDelaune_Cohort_Analysis.ipynb)
 
 ### 3. RFM Analysis Power BI Multi-Page Dashboard
 - **Summary:** Conducted an in-depth RFM analysis on 123,000+ sales records, resulting in a projected 15% increase in Customer Retention Rate (CRR) and a 12% boost in Revenue per User (RPU).
 - **Tools:** DAX, Power BI, Power Query
 - **Results:** Targeted marketing strategies and dynamic, interactive dashboards.
-- 🔗 [View Code](https://github.com/mattdelaune/rfm-analysis) | 📊 [View Dashboard](https://example.com/dashboard)
+- 🔗 [View Code](https://github.com/mattdelaune/Retail_RFM_Analysis) | 📊 [View Dashboard](https://github.com/mattdelaune/Retail_RFM_Analysis/blob/main/rfm_analysis_report.pbix)
 
 ## 🛠️ Skills and Tools
 
-- **Technical Skills:** SQL (PostgreSQL, MySQL), Python (Pandas, Numpy, Matplotlib & Seaborn), Power BI, Excel
-- **Tools:** GitHub, Excel, Anaconda, CMD
+- **Technical Skills & Tools:** SQL (PostgreSQL, MySQL), Python (Pandas, Numpy, Matplotlib & Seaborn), Power BI, Excel, GitHub, Excel, Anaconda, CMD
 
 ## 🎓 Continuous Learning and Certifications
 
