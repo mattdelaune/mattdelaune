@@ -14,19 +14,19 @@ With a background in sales and a deep understanding of business needs, I now foc
 - **Summary:** Analyzed 270,000+ sales records to identify key product pairs, leading to a projected 12% increase in Average Order Value (AOV) and a 15% boost in Customer Lifetime Value (CLV).
 - **Tools:** PostgreSQL, Python, Power BI
 - **Results:** Developed a Power BI dashboard to visualize insights, enabling strategic cross-selling and personalized marketing efforts.
-- 🔗 [View Code](https://github.com/mattdelaune/Ecommerce_Market_Basket_Analysis) | 📊 [View Dashboard](https://github.com/mattdelaune/Ecommerce_Market_Basket_Analysis/blob/master/mba_dashboard.pbix)
+- 🔗 [View Repo](https://github.com/mattdelaune/Ecommerce_Market_Basket_Analysis) | 📊 [View Dashboard](https://github.com/mattdelaune/Ecommerce_Market_Basket_Analysis/blob/master/mba_dashboard.pbix)
 
 ### 2. SaaS Customer Segmentation and Cohort Analysis
 - **Summary:** Analyzed 5,000+ SaaS transactions to identify high-impact customer segments. Implemented strategies leading to estimated increases in Gross Dollar Retention by 10% and CLV Growth by 20%.
 - **Tools:** Python (Pandas), Jupyter Notebooks
 - **Results:** Implemented dynamic retention strategies and personalized engagement initiatives.
-- 🔗 [View Code](https://github.com/mattdelaune/SaaS_Cohort_Analysis) | 📑 [View Report](https://github.com/mattdelaune/SaaS_Cohort_Analysis/blob/main/MattDelaune_Cohort_Analysis.ipynb)
+- 🔗 [View Repo](https://github.com/mattdelaune/SaaS_Cohort_Analysis) | 📑 [View Report](https://github.com/mattdelaune/SaaS_Cohort_Analysis/blob/main/MattDelaune_Cohort_Analysis.ipynb)
 
 ### 3. RFM Analysis Power BI Multi-Page Dashboard
 - **Summary:** Conducted an in-depth RFM analysis on 123,000+ sales records, resulting in a projected 15% increase in Customer Retention Rate (CRR) and a 12% boost in Revenue per User (RPU).
 - **Tools:** DAX, Power BI, Power Query
 - **Results:** Targeted marketing strategies and dynamic, interactive dashboards.
-- 🔗 [View Code](https://github.com/mattdelaune/Retail_RFM_Analysis) | 📊 [View Dashboard](https://github.com/mattdelaune/Retail_RFM_Analysis/blob/main/rfm_analysis_report.pbix)
+- 🔗 [View Repo](https://github.com/mattdelaune/Retail_RFM_Analysis) | 📊 [View Dashboard](https://github.com/mattdelaune/Retail_RFM_Analysis/blob/main/rfm_analysis_report.pbix)
 
 ## 🛠️ Skills and Tools
 
