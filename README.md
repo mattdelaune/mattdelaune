@@ -6,7 +6,7 @@ I'm Matt Delaune, a SaaS Account Executive turned Data Analyst/Business Intellig
 
 With a background in sales and a deep understanding of business needs, I now focus on leveraging data to uncover actionable insights. My goal is to help businesses optimize strategies, improve customer experiences, and drive success through data-driven decision-making.
 
-📄 [Download My Resume](https://github.com/mattdelaune/mattdelaune/blob/main/mattdelaune_resume.docx) | 💼 [Connect on LinkedIn](https://linkedin.com/in/mattdelaune)
+📄 [Download My Resume](https://github.com/mattdelaune/mattdelaune/blob/main/mattdelaune_resume.docx) | 💼 [Connect on LinkedIn](https://linkedin.com/in/mdelaune)
 
 ## 📊 Projects
 
@@ -46,4 +46,4 @@ With a background in sales and a deep understanding of business needs, I now foc
 Interested in how I can help your business grow? Let’s connect!
 
 - **Email:** [matt.delaune@gmail.com](mailto:matt.delaune@gmail.com)
-- **LinkedIn:** [linkedin.com/in/mattdelaune](https://linkedin.com/in/mattdelaune)
+- **LinkedIn:** [linkedin.com/in/mattdelaune](https://linkedin.com/in/mdelaune)
