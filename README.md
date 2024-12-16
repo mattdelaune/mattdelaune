@@ -1,14 +1,16 @@
-# Data and Business Intelligence Analyst Portfolio - Matt Delaune
+# Data and Business Intelligence Analyst Portfolio
 
 ## Introduction
 
+Welcome!
+
 I'm Matt Delaune, an **Independent Data & Business Intelligence Analyst** passionate about transforming data into actionable business insights that drive growth and efficiency. My work combines technical expertise, business acumen, and consultative communication, enabling me to bridge the gap between technical teams and business leaders.
 
-🔍 What I Bring:
+🔍 **What I Bring:**
 
-**- Technical Expertise:** Microsoft Power BI Certified | Proficient in SQL, Python, and data modeling.
-**- Business Acumen:** Finance major with a strong analytical background, experienced in sales performance, revenue forecasting, and business operations.
-**- Consultative Communication:** Developed through my SaaS Account Executive role, ensuring clear, results-driven communication with stakeholders.
+- **Technical Expertise:** Microsoft Power BI Certified | Proficient in SQL, Python, and data modeling.
+- **Business Acumen:** Finance major with a strong analytical background, experienced in sales performance, revenue forecasting, and business operations.
+- **Consultative Communication:** Developed through my SaaS Account Executive role, ensuring clear, results-driven communication with stakeholders.
 
 I’m actively building projects focused on **data analysis**, **business intelligence**, and **process optimization** — showcasing my ability to connect technical solutions with business strategy. Feel free to explore my repositories, and let’s connect if you’re looking for someone who can translate data into meaningful business outcomes.
 
