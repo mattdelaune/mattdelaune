@@ -1,16 +1,22 @@
-# 💼 Data Analyst Portfolio - Matt Delaune
+# Data and Business Intelligence Analyst Portfolio - Matt Delaune
 
-## 👋 Introduction
+## Introduction
 
-I'm Matt Delaune, a SaaS Account Executive turned Data Analyst/Business Intelligence enthusiast. My transition into data analysis is driven by a deep passion for advising businesses and a firm belief in the power of data to drive growth.
+I'm Matt Delaune, an **Independent Data & Business Intelligence Analyst** passionate about transforming data into actionable business insights that drive growth and efficiency. My work combines technical expertise, business acumen, and consultative communication, enabling me to bridge the gap between technical teams and business leaders.
 
-With a background in sales and a deep understanding of business needs, I now focus on leveraging data to uncover actionable insights. My goal is to help businesses optimize strategies, improve customer experiences, and drive success through data-driven decision-making.
+🔍 What I Bring:
+
+- Technical Expertise: Microsoft Power BI Certified | Proficient in SQL, Python, and data modeling.
+- Business Acumen: Finance major with a strong analytical background, experienced in sales performance, revenue forecasting, and business operations.
+- Consultative Communication: Developed through my SaaS Account Executive role, ensuring clear, results-driven communication with stakeholders.
+
+I’m actively building projects focused on data analysis, business intelligence, and process optimization — showcasing my ability to connect technical solutions with business strategy. Feel free to explore my repositories, and let’s connect if you’re looking for someone who can translate data into meaningful business outcomes.
 
 📄 [Download My Resume](https://github.com/mattdelaune/mattdelaune/blob/main/mattdelaune_resume.docx) | 💼 [Connect on LinkedIn](https://linkedin.com/in/mdelaune)
 
 ## 📊 Projects
 
-### 1. Ecommerce Market Basket Analysis
+### 1. E-commerce Market Basket Analysis
 - **Summary:** Analyzed 270,000+ sales records to identify key product pairs, leading to a projected 12% increase in Average Order Value (AOV) and a 15% boost in Customer Lifetime Value (CLV).
 - **Tools:** PostgreSQL, Python, Power BI
 - **Results:** Developed a Power BI dashboard to visualize insights, enabling strategic cross-selling and personalized marketing efforts.
