@@ -1,16 +1,18 @@
-# Data and Business Intelligence Analyst Portfolio
+# Data Analyst & Business Intelligence Portfolio
 
 ## Introduction
 
 Welcome!
 
-I'm Matt Delaune, an **Independent Data & Business Intelligence Analyst** passionate about transforming data into actionable business insights that drive growth and efficiency. My work combines technical expertise, business acumen, and consultative communication, enabling me to bridge the gap between technical teams and business leaders.
+Hi, I’m **Matt Delaune** — a **Data Analyst specializing in Marketing, Sales, and Revenue Operations Analytics**. I’m passionate about transforming **raw data into clear insights** that drive smarter business decisions, optimize performance, and uncover growth opportunities.
+
+My background blends **hands-on data analytics expertise** with insights gained from my time in **SaaS sales**, giving me a unique perspective on how data connects to real business challenges.
 
 🔍 **What I Bring:**
 
 - **Technical Expertise:** Microsoft Power BI Certified | Proficient in SQL, Python, and data modeling.
-- **Business Acumen:** Finance major with a strong analytical background, experienced in sales performance, revenue forecasting, and business operations.
-- **Consultative Communication:** Developed through my SaaS Account Executive role, ensuring clear, results-driven communication with stakeholders.
+- **Business Acumen:** Deep understanding of sales performance metrics, marketing funnels, and customer retention strategies. Skilled in aligning data analysis with strategic business goals to deliver measurable outcomes.
+- **Communication & Collaboration:** Experience presenting data-driven insights to stakeholders across sales, marketing, and leadership teams.
 
 I’m actively building projects focused on **data analysis**, **business intelligence**, and **process optimization** — showcasing my ability to connect technical solutions with business strategy. Feel free to explore my repositories, and let’s connect if you’re looking for someone who can translate data into meaningful business outcomes.
 
