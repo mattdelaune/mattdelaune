@@ -1,59 +1,58 @@
-# Data Analyst & Business Intelligence Portfolio
+# 🚀 Business Intelligence & Data Analytics Portfolio
 
 ## Introduction
 
-Welcome!
+Hi, I’m **Matt Delaune** — a **Business Intelligence Analyst** with expertise in **Power BI, SQL, and Marketing/Sales Analytics**.  
+I specialize in **transforming complex datasets into clear, interactive dashboards** that drive decision-making and revenue growth.
 
-Hi, I’m **Matt Delaune** — a **Data Analyst specializing in Marketing, Sales, and Revenue Operations Analytics**. I’m passionate about transforming **raw data into clear insights** that drive smarter business decisions, optimize performance, and uncover growth opportunities.
+🔹 **Power BI Certified** | 🔹 **SQL & Python for Data Analysis** | 🔹 **Marketing & Sales Performance Analytics**
 
-My background blends **hands-on data analytics expertise** with insights gained from my time in **SaaS sales**, giving me a unique perspective on how data connects to real business challenges.
+📄 [Download My Resume](https://github.com/mattdelaune/mattdelaune/blob/main/mattdelaune_resume.docx)  
+💼 [Connect on LinkedIn](https://linkedin.com/in/mattdelaune)
 
-🔍 **What I Bring:**
+---
 
-- **Technical Expertise:** Microsoft Power BI Certified | Proficient in SQL, Python, and data modeling.
-- **Business Acumen:** Deep understanding of sales performance metrics, marketing funnels, and customer retention strategies. Skilled in aligning data analysis with strategic business goals to deliver measurable outcomes.
-- **Communication & Collaboration:** Experience presenting data-driven insights to stakeholders across sales, marketing, and leadership teams.
+## 📊 Featured Projects
 
-I’m actively building projects focused on **data analysis**, **business intelligence**, and **process optimization** — showcasing my ability to connect technical solutions with business strategy. Feel free to explore my repositories, and let’s connect if you’re looking for someone who can translate data into meaningful business outcomes.
+### 1️⃣ Market Basket Analysis for E-commerce Optimization
+- **Business Problem:** Retailers needed insights into product bundling to increase revenue.  
+- **BI Solution:** Built a **Power BI dashboard** to analyze **frequent product pairings** and optimize marketing strategies.  
+- **Results:** Boosted AOV by **12%** and CLV by **15%** by refining product recommendations.  
+🔗 [View Repo](https://github.com/mattdelaune/Ecommerce_Market_Basket_Analysis) | 📊 [View Dashboard](https://github.com/mattdelaune/Ecommerce_Market_Basket_Analysis/blob/master/mba_dashboard.pbix)
 
-📄 [Download My Resume](https://github.com/mattdelaune/mattdelaune/blob/main/mattdelaune_resume.docx) | 💼 [Connect on LinkedIn](https://linkedin.com/in/mdelaune)
+### 2️⃣ SaaS Customer Segmentation & Retention Analytics
+- **Business Problem:** Leadership needed customer retention insights to **reduce churn and improve LTV**.  
+- **BI Solution:** Created a **cohort-based retention dashboard** to track **churn trends & optimize pricing strategies**.  
+- **Results:** Improved **Gross Dollar Retention by 10%** through enhanced engagement strategies.  
+🔗 [View Repo](https://github.com/mattdelaune/SaaS_Cohort_Analysis) | 📑 [View Report](https://github.com/mattdelaune/SaaS_Cohort_Analysis/blob/main/MattDelaune_Cohort_Analysis.ipynb)
 
-## 📊 Projects
+### 3️⃣ RFM Analysis Power BI Multi-Page Dashboard
+- **Business Problem:** Identifying high-value customers to improve retention and revenue.  
+- **BI Solution:** Conducted **RFM segmentation** and built a **Power BI dashboard** for customer insights.  
+- **Results:** Increased **Customer Retention Rate by 15%** and Revenue per User (RPU) by **12%**.  
+🔗 [View Repo](https://github.com/mattdelaune/Retail_RFM_Analysis) | 📊 [View Dashboard](https://github.com/mattdelaune/Retail_RFM_Analysis/blob/main/rfm_analysis_report.pbix)
 
-### 1. E-commerce Market Basket Analysis
-- **Summary:** Analyzed 270,000+ sales records to identify key product pairs, leading to a projected 12% increase in Average Order Value (AOV) and a 15% boost in Customer Lifetime Value (CLV).
-- **Tools:** PostgreSQL, Python, Power BI
-- **Results:** Developed a Power BI dashboard to visualize insights, enabling strategic cross-selling and personalized marketing efforts.
-- 🔗 [View Repo](https://github.com/mattdelaune/Ecommerce_Market_Basket_Analysis) | 📊 [View Dashboard](https://github.com/mattdelaune/Ecommerce_Market_Basket_Analysis/blob/master/mba_dashboard.pbix)
+---
 
-### 2. SaaS Customer Segmentation and Cohort Analysis
-- **Summary:** Analyzed 5,000+ SaaS transactions to identify high-impact customer segments. Implemented strategies leading to estimated increases in Gross Dollar Retention by 10% and CLV Growth by 20%.
-- **Tools:** Python (Pandas), Jupyter Notebooks
-- **Results:** Implemented dynamic retention strategies and personalized engagement initiatives.
-- 🔗 [View Repo](https://github.com/mattdelaune/SaaS_Cohort_Analysis) | 📑 [View Report](https://github.com/mattdelaune/SaaS_Cohort_Analysis/blob/main/MattDelaune_Cohort_Analysis.ipynb)
+## 🛠️ Skills & Tools
 
-### 3. RFM Analysis Power BI Multi-Page Dashboard
-- **Summary:** Conducted an in-depth RFM analysis on 123,000+ sales records, resulting in a projected 15% increase in Customer Retention Rate (CRR) and a 12% boost in Revenue per User (RPU).
-- **Tools:** DAX, Power BI, Power Query
-- **Results:** Targeted marketing strategies and dynamic, interactive dashboards.
-- 🔗 [View Repo](https://github.com/mattdelaune/Retail_RFM_Analysis) | 📊 [View Dashboard](https://github.com/mattdelaune/Retail_RFM_Analysis/blob/main/rfm_analysis_report.pbix)
+### 🔹 Business Intelligence & Analytics
+- **Power BI & DAX:** Built **automated dashboards** for marketing & sales teams.
+- **SQL (PostgreSQL, MySQL):** Developed **data pipelines & performance metrics**.
+- **Python (Pandas, NumPy, Matplotlib):** Analyzed **customer behavior and revenue trends**.
+- **Marketing & Sales Analytics:** Expert in **ROAS tracking, RFM segmentation, and revenue forecasting**.
+- **ETL & Data Automation:** Created **end-to-end reporting workflows** with SQL & Power BI.
 
-## 🛠️ Skills and Tools
+### 🔹 Certifications
+- **Microsoft Power BI Data Analyst Associate (2024)**
+- **DataCamp Data Analyst in Power BI Certificate (2024)**
+- **IBM Data Analyst Professional Certificate (In Progress)**
 
-- **Technical Skills & Tools:** SQL (PostgreSQL, MySQL), Python (Pandas, Numpy, Matplotlib & Seaborn), Power BI, Excel, GitHub, Excel, Anaconda, CMD
+---
 
-## 🎓 Continuous Learning and Certifications
+## 📩 Contact
 
-- **Certifications:**
-  - Microsoft Power BI Data Analyst Associate (2024)
-  - DataCamp Data Analyst in Power BI Certificate (2024)
-  - IBM Data Analyst Professional Certificate (In Progress)
+Looking for a **BI Analyst to build powerful insights for your business?** Let’s connect!  
 
-- **Learning Journey:** Committed to continuous learning through courses, workshops, and self-study to stay updated on industry trends and emerging technologies. Visit my blog where I'll be sharing my journey!
-
-## ✉️ Contact
-
-Interested in how I can help your business grow? Let’s connect!
-
-- **Email:** [matt.delaune@gmail.com](mailto:matt.delaune@gmail.com)
-- **LinkedIn:** [linkedin.com/in/mattdelaune](https://linkedin.com/in/mdelaune)
+📧 **Email:** [matt.delaune@gmail.com](mailto:matt.delaune@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/mattdelaune](https://linkedin.com/in/mattdelaune)
