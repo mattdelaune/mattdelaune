@@ -1,11 +1,13 @@
-# 🚀 Business Intelligence & Data Analytics Portfolio
+# 📈 Sales Operations Analytics Portfolio
 
-## Introduction
+## 👋 Introduction
 
-Hi, I’m **Matt Delaune** — a **Business Intelligence Analyst** with expertise in **Power BI, SQL, and Marketing/Sales Analytics**.  
-I specialize in **transforming complex datasets into clear, interactive dashboards** that drive decision-making and revenue growth.
+Hi, I’m **Matt Delaune** — a **Freelance Sales Operations Analyst** with a background in **B2B SaaS sales** and a focus on using **Power BI, SQL, and CRM data** to optimize pipeline performance and forecast revenue with precision.
 
-🔹 **Power BI Certified** | 🔹 **SQL & Python for Data Analysis** | 🔹 **Marketing & Sales Performance Analytics**
+I specialize in turning sales and marketing data into **clear, actionable dashboards** and reports that drive **quota attainment**, **process efficiency**, and **growth strategy**.
+
+🔹 **Power BI Certified** | 🔹 **Salesforce & HubSpot Expertise** | 🔹 **Pipeline, Forecasting & Quota Analytics**
+
 
 📄 [Download My Resume](https://github.com/mattdelaune/mattdelaune/blob/main/mattdelaune_resume.docx)  
 💼 [Connect on LinkedIn](https://linkedin.com/in/mattdelaune)
@@ -36,23 +38,24 @@ I specialize in **transforming complex datasets into clear, interactive dashboar
 
 ## 🛠️ Skills & Tools
 
-### 🔹 Business Intelligence & Analytics
-- **Power BI & DAX:** Built **automated dashboards** for marketing & sales teams.
-- **SQL (PostgreSQL, MySQL):** Developed **data pipelines & performance metrics**.
-- **Python (Pandas, NumPy, Matplotlib):** Analyzed **customer behavior and revenue trends**.
-- **Marketing & Sales Analytics:** Expert in **ROAS tracking, RFM segmentation, and revenue forecasting**.
-- **ETL & Data Automation:** Created **end-to-end reporting workflows** with SQL & Power BI.
+### 💼 Sales Operations & Business Analytics
+- **Power BI (DAX, Power Query):** Built multi-page dashboards to analyze pipeline health, lead source performance, and sales velocity.
+- **SQL (PostgreSQL, MySQL):** Designed custom queries for forecasting, territory management, and quota attainment analysis.
+- **CRM Data Strategy:** Skilled in data extraction, modeling, and reporting from **Salesforce** and **HubSpot** environments.
+- **Sales Ops Use Cases:** Forecasting, quota pacing, lead routing, territory optimization, rep performance, and win/loss analysis.
+- **Python (Pandas, Matplotlib):** Applied in exploratory analysis, trend modeling, and light machine learning for sales forecasting.
 
-### 🔹 Certifications
+### 📜 Certifications
 - **Microsoft Power BI Data Analyst Associate (2024)**
-- **DataCamp Data Analyst in Power BI Certificate (2024)**
+- **Salesforce Business Analyst Certification (In Progress)**
+- **HubSpot Reporting Certification (2024)**
 - **IBM Data Analyst Professional Certificate (In Progress)**
 
 ---
 
 ## 📩 Contact
 
-Looking for a **BI Analyst to build powerful insights for your business?** Let’s connect!  
+If you're looking for a **Sales Ops Analyst** who can combine sales experience with data-driven decision-making — let's connect.
 
 📧 **Email:** [matt.delaune@gmail.com](mailto:matt.delaune@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/mattdelaune](https://linkedin.com/in/mattdelaune)
