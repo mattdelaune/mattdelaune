@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hi, I’m **Matt Delaune** — a **Freelance Sales & Marketing Data Analyst** with a background in **B2B SaaS sales** and a focus on using **Power BI, SQL, and CRM data** to optimize pipeline performance and forecast revenue with precision.
+Hi, I’m **Matt Delaune**, a **Freelance Sales & Revenue Operations Data Analyst** with a background in **B2B SaaS sales** and a focus on using **Power BI, SQL, and CRM data** to optimize pipeline performance and forecast revenue with precision.
 
 I specialize in turning sales and marketing data into **clear, actionable dashboards** and reports that drive **quota attainment**, **process efficiency**, and **growth strategy**.
 
@@ -55,7 +55,7 @@ I specialize in turning sales and marketing data into **clear, actionable dashbo
 
 ## Contact
 
-If you're looking for a **Sales Ops Analyst** who can combine sales experience with data-driven decision-making — let's connect.
+If you're looking for a **Sales Ops Analyst** who can combine sales experience with data-driven decision-making, let's connect.
 
 📧 **Email:** [matt.delaune@gmail.com](mailto:matt.delaune@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/mattdelaune](https://linkedin.com/in/mattdelaune)
