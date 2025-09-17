@@ -1,4 +1,4 @@
-# Sales & Marketing Analytics Portfolio
+# Sales & RevOps Data Analytics Portfolio
 
 ## Introduction
 
