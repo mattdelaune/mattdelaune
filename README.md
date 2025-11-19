@@ -74,4 +74,4 @@ This repo highlights the **Sales & RevOps analytics projects** I’ve built—Po
 If you’re looking for a **Sales Ops / RevOps Analyst** who brings together **frontline SaaS sales experience**, **data analysis**, and **automation** to improve pipeline visibility and operational efficiency, I’d be happy to connect.
 
 📧 **Email:** [matthew.delaune@gmail.com](mailto:matthew.delaune@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/matthewdelaune](https://linkedin.com/in/matthewddelaune)
+🔗 **LinkedIn:** [linkedin.com/in/matthewddelaune](https://linkedin.com/in/matthewddelaune)
