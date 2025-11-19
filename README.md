@@ -17,8 +17,8 @@ This repo highlights the **Sales & RevOps analytics projects** I’ve built—Po
 🔹 **HubSpot Revenue Operations Certified**  
 🔹 **Sales Ops / RevOps–focused analytics & automation**
 
-📄 [Download My Resume](https://github.com/mattdelaune/mattdelaune/blob/main/mattdelaune_resume.docx)  
-💼 [Connect on LinkedIn](https://linkedin.com/in/matthewdelaune)
+📄 [Download My Resume](https://github.com/mattdelaune/mattdelaune/blob/main/mattdelaune_resume_general.docx)  
+💼 [Connect on LinkedIn](https://linkedin.com/in/matthewddelaune)
 
 ---
 
@@ -74,4 +74,4 @@ This repo highlights the **Sales & RevOps analytics projects** I’ve built—Po
 If you’re looking for a **Sales Ops / RevOps Analyst** who brings together **frontline SaaS sales experience**, **data analysis**, and **automation** to improve pipeline visibility and operational efficiency, I’d be happy to connect.
 
 📧 **Email:** [matthew.delaune@gmail.com](mailto:matthew.delaune@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/matthewdelaune](https://linkedin.com/in/matthewdelaune)
+🔗 **LinkedIn:** [linkedin.com/in/matthewdelaune](https://linkedin.com/in/matthewddelaune)
